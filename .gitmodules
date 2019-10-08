@@ -1,0 +1,3 @@
+[submodule "bananarama"]
+	path = bananarama
+	url = git@github.com:reergymerej/blog-bananarama.git
